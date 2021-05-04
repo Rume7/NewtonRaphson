@@ -1,6 +1,6 @@
 """
 Created on Mon Feb 24 15:37:44 2020
-@author: E238958
+@author: Rhume
 """
 # Determine root using Newton-Raphson method
 
